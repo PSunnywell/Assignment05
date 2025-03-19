@@ -1,0 +1,1 @@
+I think I could've been more concise but everytime I tried I broke something that already worked. I also would have preferred the error messages to appear near the field that they related to but I could not get that to work.
